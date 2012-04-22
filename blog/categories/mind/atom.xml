@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: mind | the way to your heart]]></title>
+  <link href="http://dannyduanduan.github.com/blog/categories/mind/atom.xml" rel="self"/>
+  <link href="http://dannyduanduan.github.com/"/>
+  <updated>2012-04-22T11:39:35+08:00</updated>
+  <id>http://dannyduanduan.github.com/</id>
+  <author>
+    <name><![CDATA[danny]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[the way to open your mind]]></title>
+    <link href="http://dannyduanduan.github.com/blog/2012/04/22/the-way-to-open-your-mind/"/>
+    <updated>2012-04-22T10:48:00+08:00</updated>
+    <id>http://dannyduanduan.github.com/blog/2012/04/22/the-way-to-open-your-mind</id>
+    <content type="html"><![CDATA[<blockquote><h2>This is a header</h2></blockquote>
+
+<ul>
+<li>Red
+this is my first english bolg.i think i will get it very well to record my mind. today my mind is just put my minds to my lover.i hope we loveing each other forever.just enjoy your life.</li>
+</ul>
+
+
+<blockquote><p>good lucks.</p></blockquote>
+]]></content>
+  </entry>
+  
+</feed>
